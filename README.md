@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**SullenSchemer/SullenSchemer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 🔧 I'm currently working on Disability rights implementation research & NLP text analysis of African Literature<br>🤝 I'm looking to collaborate on Social impact data projects<br>💛 I'm looking for help with Landing a data analytics or engineering role — hit me up<br>🌱 I'm currently learning AI safety & alignment<br>💬 Ask me about Data visualization & Social impact analytics<br>⚡ I like learning languages and this year its ASL while exploring the DMV one neighborhood at a time<br>
 
@@ -24,4 +21,3 @@
 [![](https://visitcount.itsvg.in/api?id=SullenSchemer&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
