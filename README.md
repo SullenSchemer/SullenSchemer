@@ -1,6 +1,6 @@
 ## Hi, I'm Sharon 🫣
 
-👷🏾‍♀️ Currently working on research tracking CRPD implementation & NLP text analysis of African Literature<br> 🌱 I'm currently learning AI safety & alignment<br>⚡ I like learning languages and this year we're starting off with ASL while exploring the DMV one neighborhood at a time<br>
+🔬 Currently working on research tracking CRPD implementation & NLP text analysis of African Literature<br> 🌱 Into AI safety, alignment, and responsible NLP systems<br>⚡ I like learning languages and this year we're starting off with ASL while exploring the DMV one neighborhood at a time<br> 
 
 
 ## 🌐 Socials:
