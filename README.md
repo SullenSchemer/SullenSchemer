@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔧 I'm currently working on Disability rights implementation research & NLP text analysis of African Literature<br>🤝 I'm looking to collaborate on Social impact data projects<br>💛 I'm looking for help with Landing a data analytics or engineering role — hit me up<br>🌱 I'm currently learning AI safety & alignment<br>💬 Ask me about Data visualization & Social impact analytics<br>⚡ I like learning languages and this year its ASL while exploring the DMV one neighborhood at a time<br>
+🔧 I'm currently working on Disability rights implementation research & NLP text analysis of African Literature<br>🤝 I'm looking to collaborate on Social impact data projects<br>💛 I'm looking for help with Landing a data analytics or engineering role — hit me up<br>🌱 I'm currently learning AI safety & alignment<br>⚡ I like learning languages and this year we're starting off with ASL while exploring the DMV one neighborhood at a time<br>
 
 
 ## 🌐 Socials:
