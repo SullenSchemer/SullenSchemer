@@ -3,7 +3,7 @@
 🔬 Currently working on research tracking CRPD implementation & NLP text analysis of African Literature<br> 🌱 Into AI safety & alignment<br>⚡ I like learning languages and this year we're starting off with ASL while exploring the DMV one neighborhood at a time<br> 📊 I make cool and useful BI tools, reach out if you’re hiring for analytics or data engineering roles<br>
 
 
-## 🌐 Socials:
+## 🌐 Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sharonwanyana) 
 
 # 💻 Tech Stack:
